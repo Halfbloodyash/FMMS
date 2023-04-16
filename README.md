@@ -22,3 +22,15 @@ pip install RPi.GPIO
 Connect the DS18B20 temperature sensor to the Raspberry Pi as per the circuit diagram .
 Connect the pH sensor to the Raspberry Pi as per the circuit diagram provided .
 Connect the Pi camera module to the Raspberry Pi.
+
+Troubleshooting
+If the temperature or pH readings are not accurate, check the connections of the sensors and ensure that they are calibrated properly.
+If the camera feed is not displaying properly or the fish detection is not working, check the connections of the Pi camera module and ensure that the TensorFlow Lite model is properly installed.
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
